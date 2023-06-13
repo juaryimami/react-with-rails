@@ -143,7 +143,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project do not forget to star my project. Its your time to support.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
