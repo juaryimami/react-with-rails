@@ -37,10 +37,21 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
+  <summary>Client</summary>
+    - Ruby on Rails
+    - Ruby
+    - React
+    - Redux
+</details>
+
+<details>
   <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-  </ul>
+    - Localhost
+</details>
+
+<details>
+<summary>Database</summary>
+  - Localhost
 </details>
 
 <p align="right"><a href="#readme-top">back to top</a></p>
